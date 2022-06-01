@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+city = input("Enter the name of your city: ")
+course_study = input("Enter your course name: ")
+age = int(input("Enter your age: "))
+hobbies = input("Enter your Hobbies: ")
+favorite_Entrepreneur = input("Enter the name of your Favorite Entrepreneur: ")
+
+print(f"My name is{name},i'm from {city} and i'm pursuing my degree in {course_study} and \ "
+      f"other than my hobbies are { hobbies } and finally my dream is to be a intelligent Entrepreneur like {favorite_Entrepreneur}")
+
